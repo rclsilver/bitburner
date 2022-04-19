@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitburner-official/vscode-template.git"
+    "url": "https://github.com/rclsilver/bitburner.git"
   },
-  "author": "SlyCedix",
+  "author": "Thomas Bétrancourt <thomas@betrancourt.net>",
   "bugs": {
-    "url": "https://github.com/bitburner-official/vscode-template/issues"
+    "url": "https://github.com/rclsilver/bitburner/issues"
   },
-  "homepage": "https://github.com/bitburner-official/vscode-template#readme",
+  "homepage": "https://github.com/rclsilver/bitburner#readme",
   "devDependencies": {
     "@types/lodash": "^4.14.178",
     "@types/node": "^16.4.3",

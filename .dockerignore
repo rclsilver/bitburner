@@ -1,0 +1,4 @@
+node_modules/
+dist/
+NetscriptDefinition.d.ts
+docker-compose.yml

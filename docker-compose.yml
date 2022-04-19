@@ -1,0 +1,9 @@
+services:
+  bitburner:
+    image: 'bitburner'
+    build:
+      context: .
+    volumes:
+      - ${PWD}:/home/node/bitburner
+    command: npm run watch
+    restart: always
